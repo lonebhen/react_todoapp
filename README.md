@@ -1,4 +1,4 @@
-This is a reactjs todo-app.This project only contains the frontend part,No backend and database.
+This is a reactjs todo-app.This project only contains the frontend part.No backend and database.
 
 
 
