@@ -1,3 +1,8 @@
+This is a reactjs todo-app.This project only contains the frontend part,No backend and database.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
