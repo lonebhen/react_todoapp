@@ -1,6 +1,8 @@
 This is a reactjs todo-app.This project only contains the frontend part.No backend and database.
 Some of the packages were ignored during the pushing
 
+The code is in the src folder
+
 
 
 
