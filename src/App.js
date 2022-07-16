@@ -13,6 +13,7 @@ class App extends React.Component{
   
       state={
         // Dummy todo lists
+        
         todos:[
           {
             id:uuid(),
@@ -21,7 +22,7 @@ class App extends React.Component{
           },
            {
             id:uuid(),
-            title:'Become a great developer',
+            title:'Become a great software engineer',
             completed: false
           },
            {
