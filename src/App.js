@@ -27,7 +27,7 @@ class App extends React.Component{
           },
            {
             id:uuid(),
-            title:'Be indisposable in any field I enter',
+            title:'I want to be a better person',
             completed: false
           },
         ]
